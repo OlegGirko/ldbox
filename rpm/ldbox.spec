@@ -1,3 +1,5 @@
+%undefine _hardened_build
+
 Summary: 	ldbox crosscompiling environment
 License: 	LGPL
 URL:		https://github.com/mer-packages/ldbox
